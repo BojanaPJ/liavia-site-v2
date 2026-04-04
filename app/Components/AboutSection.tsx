@@ -93,9 +93,9 @@ const AboutSection = () => {
               className="text-4xl lg:text-[54px] font-medium leading-[1.1] mb-6 text-footer-bg"
             >
               Turning{" "} 
-              <span className="text-primary-gold"> 
-                reality </span> <br /> into perception
-	      </span>            
+              <span className="text-primary-gold">
+                reality <br /> into perception          
+              </span>
             </h1>
 
             {/* Content */}
