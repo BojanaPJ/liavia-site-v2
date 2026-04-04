@@ -217,7 +217,7 @@ function ProductCard({
     <div
       ref={animRef}
       className={`rounded-2xl p-8 md:p-10 flex flex-col gap-5 ${
-        wider ? "lg:col-span-8" : "lg:col-span-4"
+        wider ? "lg:col-span-7" : "lg:col-span-5"
       }`}
       style={{
         background: "rgba(255,255,255,0.45)",
