@@ -170,7 +170,7 @@ export default function Footer() {
 
               <a
                 href="mailto:hello@liavia.ai"
-                className="inline-flex items-center gap-2 text-base transition-opacity hover:opacity-70 mb-6"
+                className="inline-flex items-center gap-2 text-base text-primary-gold transition-opacity hover:opacity-70 mb-6"
               >
                 hello@liavia.ai
                 <svg width="14" height="14" viewBox="0 0 14 14" fill="none">
