@@ -117,7 +117,7 @@ const AboutSection = () => {
               <p>
                 With decades of combined experience, spanning across cognitive 
                 behaviour research, strategic execution, and change management,
-                we are on a mission to make{" "}
+                we are on a mission to make:{" "}
                 <span className="  text-[#3d3b2e]">
                   Reality =&gt; Perception
                 </span>
