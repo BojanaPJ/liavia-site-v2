@@ -106,10 +106,10 @@ const AboutSection = () => {
               <p>
                 Our founders joined forces in 2025 to develop a novel solution
                 to{" "}
-                <span className="  font-medium text-footer-bg">
+                <span className="  text-[#3d3b2e]">
                   the age-old problem:
                 </span>{" "}
-                <span className="  font-medium text-footer-bg">
+                <span className="  text-[#3d3b2e]">
                   Perception =&gt; Reality
                 </span>
               </p>
@@ -118,7 +118,7 @@ const AboutSection = () => {
                 With decades of combined experience, spanning across cognitive 
                 behaviour research, strategic execution, and change management,
                 we are on a mission to make{" "}
-                <span className="  font-medium text-footer-bg">
+                <span className="  text-[#3d3b2e]">
                   Reality =&gt; Perception
                 </span>
                 .
@@ -129,10 +129,9 @@ const AboutSection = () => {
               </p>
 
               <p>
-                It forms the basis of everything we do: how we operate, how we
-                develop, and how we deliver. In a world full of noise, we do not 
-	        want to add to it. Instead, LiaVia hunts for truth that leads the way forward.
-              </p>
+  It forms the basis of everything we do: how we operate, how we develop, and how we deliver. 
+  In a world full of noise, we do not want to add to it. Instead, LiaVia hunts for truth that leads the way forward.
+</p>
             </div>
           </div>
 
