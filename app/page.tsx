@@ -21,7 +21,7 @@ export default function Home() {
       <SecuritySafety />
 
       <AboutSection />
-      <FooterTopCTA />
+      {/* <FooterTopCTA /> */}
     </div>
   );
 }
