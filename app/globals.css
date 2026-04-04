@@ -1,0 +1,57 @@
+@import "tailwindcss";
+ 
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+
+  --bg-primary: #F1ECE4;
+  --bg-secondary: #E8E2D8;
+
+  --color-primary: #7A6A55;
+  --color-secondary: #C4A484;
+}
+ 
+@theme inline   {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+
+  --color-primary: var(--bg-primary);
+  --color-light-gold: #e0a030;
+  --color-secondary: var(--color-secondary);
+  --color-primary-gold: #ad781c;  
+  --color-dark-gold: #8a5e14;
+
+  --color-section-bg: #eae6dc;   /* ← section bg */
+  --color-footer-bg: #1e1d18;   /* ← headings / footer bg */
+
+  --bg-primary: var(--bg-primary);
+  --bg-secondary: var(--bg-secondary);
+  --animate-arrow-down: arrowDown 1.5s ease-in-out infinite;
+  --text-base:15px;
+ 
+
+  @keyframes arrowDown {
+    0% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+    70% {
+      transform: translateY(12px);
+      opacity: 0;
+    }
+    100% {
+      transform: translateY(0);
+      opacity: 0;
+    }
+  }
+
+}
+ 
+p,a,li,button {
+  font-family: var(--font-primary) ; 
+  letter-spacing: 0.015em;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+}
+
