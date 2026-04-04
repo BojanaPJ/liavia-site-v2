@@ -67,12 +67,12 @@ export default function HowItWorksSection() {
             alt="Abstract network visualization"
             fill
             sizes="100vw"
-            className="object-cover object-top brightness-125"
+            className="object-cover object-top brightness-90"
             priority
           />
 
           {/* Lightened premium overlay */}
-          <div className="absolute inset-0 bg-linear-to-b from-transparent via-black/5 to-black/10" />
+          <div className="absolute inset-0 bg-linear-to-b from-[#0b1d2a]/10 via-[#0b1d2a]/20 to-black/20" />
 
           {/* Content */}
           <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-6">
