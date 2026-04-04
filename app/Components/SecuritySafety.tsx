@@ -70,7 +70,7 @@ const pillars: SecurityPillar[] = [
     ),
     title: "Strict need-to-know access",
     description:
-      "Insights are delivered only to the role you identified and pre-approved. Executives see aggregate patterns, PMs see execution forecasts, employees see only their own career data. No cross-contamination.",
+      "Insights are delivered only to the specified and pre-approved roles. Executives see aggregate patterns, PMs see execution forecasts, employees see only their own career data. No cross-contamination.",
   },
   {
     icon: (
@@ -107,7 +107,7 @@ const pillars: SecurityPillar[] = [
     ),
     title: "On-site analysis",
     description:
-      "The diagnostic runs inside your environment be it Microsoft or some provider’s cloud tenancy. Raw communication data is never extracted or transmitted externally. Only the structured insight output is surfaced to your team.",
+      "Runs inside your environment, be it Microsoft or another cloud provider. Raw communication data is never extracted or transmitted externally. Only actionable insights are surfaced.",
   },
   {
     icon: (
