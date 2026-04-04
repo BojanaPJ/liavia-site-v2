@@ -112,12 +112,12 @@ export default function CopenhagenSection() {
 
             {/* Fixed quotes */}
             <p className="font-medium text-[#3d3b2e]">
-              “Perception is reality”, they say
+              “Perception is reality”, they say.
             </p>
 
             <p className="font-medium text-[#3d3b2e]">
-              “Then let’s make sure our perception is objective and
-              data-driven”, we say
+              “Then let’s make sure your perception is objective and
+              data-driven”, we say.
             </p>
 
             <p>
@@ -131,8 +131,8 @@ export default function CopenhagenSection() {
             </p>
 
             <p>
-              You’ve set the course. Made the plan. Now use LiaVia to land it
-              with precision.
+              You’ve set the course. Made the plan. 
+              Now use LiaVia to land it with precision.
             </p>
 
             <p className="text-sm text-[#5a5640]">
