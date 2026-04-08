@@ -115,8 +115,8 @@ const AboutSection = () => {
               </p>
 
               <p>
-                With decades of combined experience, spanning across cognitive 
-                behaviour research, strategic execution, and change management,
+                With decades of combined experience across cognitive 
+                behaviour research, strategy execution and change management,
                 we are on a mission to make:{" "}
                 <span className="  text-[#3d3b2e]">
                   Reality =&gt; Perception
@@ -125,7 +125,7 @@ const AboutSection = () => {
               </p>
 
               <p className="font-medium  text-footer-bg">
-                Fast. Quiet. Relevant.
+                Our mantra of getting there: Fast. Quiet. Relevant.
               </p>
 
               <p>
